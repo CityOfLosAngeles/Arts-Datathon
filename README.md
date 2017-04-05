@@ -29,6 +29,6 @@ Upload the dataset in the folder that best describes the topic of the dataset. I
 
 ## Additional Documentation
 
-In order to build trustworthiness and context for datasets, create a file containing additional documentation with each dataset uploaded to the GitHub repository. This may be narrative text that provides information about the conditions under which the dataset was created including tools used, periodicty, geography, topics.
+In order to build trustworthiness and context for datasets, create a file containing additional documentation with each dataset uploaded to the GitHub repository. This may be narrative text that provides information about the conditions under which the dataset was created including tools used (software and hardware), periodicity, geography, topics.
 
 Documentation on the author of the dataset (including organization if appropriate) is required. If available, please include data dictionaries and log books.
