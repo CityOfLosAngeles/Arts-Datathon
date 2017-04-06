@@ -6,4 +6,4 @@ The Advancement Grant Program offers financial support to Los Angeles County sch
 
 Grant funds assist school districts in achieving key action items in their district arts plans, and cultivating skills and practices that can be sustained beyond the term of the grant. 
 
-Underwritten by Arts for All’s Pooled Fund, this program offered $560,000 in financial support to 38 school districts and two charter school networks in LA County for the 2016-17 school year.
+Underwritten by Arts for Allâ€™s Pooled Fund, this program offered $560,000 in financial support to 38 school districts and two charter school networks in LA County for the 2016-17 school year.
