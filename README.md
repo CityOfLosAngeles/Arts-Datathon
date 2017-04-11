@@ -21,6 +21,8 @@ Artifacts going into and coming out of the datathon are licensed under a CC BY-N
 
 More information on the license available in the GitHub repo and the Creative Commons site: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
+Do not mislead others or misrepresent the datasets or their sources. You must not use City of Los Angeles Department of Cultural Affairs or Los Angeles County Arts Commission logos or otherwise claim or imply that either agencies endorses you or your use of the datasets. 
+
 ## File Formats
 
 All datasets should be saved as a CSV file. Additionally, if other file formats are available, these should be uploaded to the GitHub repository, but is not required.
