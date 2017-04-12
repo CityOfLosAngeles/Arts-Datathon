@@ -1,4 +1,4 @@
-City of Los Angeles Department of Cultural Affairs (DCA)
+City of Los Angeles Department of Cultural Affairs (CoLADCA)
 
 Cultural Centers, Theaters, Historic Sites, and Galleries: Location and Contact Information (pulled 4/11/17)
 
