@@ -1,4 +1,4 @@
-# LA Arts Access Datathon
+# Arts Datathon, Los Angeles
 This is a public repository of datasets made available for the Arts Datathon happening on April 22, 2017 at The Reef, the downtown Los Angeles campus of Claremont Graduate University and Sotheby's Institute of Art - Los Angeles. The Arts Datathon is jointly led by the City of Los Angeles Department of Cultural Affairs and the Los Angeles County Arts Commission. 
 
 The Arts Datathon will bring together local arts agencies with artists, arts administrators, educators, students, community advocates and researchers as well as other professionals in culture, museums and urban planning. Together we will explore the data to gain a greater understanding of the present and future of arts and culture programming, infrastructure, and policy across the Los Angeles region. We will also know a whole lot more about how we can put the data to work. 
